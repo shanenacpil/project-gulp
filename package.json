@@ -1,0 +1,24 @@
+{
+  "name": "project-gulp",
+  "version": "1.0.0",
+  "description": "This is a sample project for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shanenacpil/project-gulp"
+  },
+  "keywords": [
+    "project-gulp"
+  ],
+  "author": "shane",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gul": "^1.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-useref": "^3.1.2"
+  }
+}
